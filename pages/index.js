@@ -12,33 +12,33 @@ const images = [
     alt: 'After Rain (Jeshu John - designerspics.com)',
   },
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/american-duplex-house-two-families-green-exterior-paint-76170460.jpg',
     alt: 'Boats (Jeshu John - designerspics.com)',
   },
 
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/duplex-11389954.jpg',
     alt: 'another alt',
   },
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/modern-large-house-8122926.jpg',
     alt: 'another alt',
   },
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/new-modern-bungalow-front-view-one-floor-family-house-asia-style-design-149517329.jpg',
     alt: 'After Rain (Jeshu John - designerspics.com)',
   },
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/stone-brick-duplex-776712.jpg',
     alt: 'Boats (Jeshu John - designerspics.com)',
   },
 
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/living-room-orange-sofa-8815301.jpg',
     alt: 'another alt',
   },
   {
-    src: 'https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg',
+    src: 'https://thumbs.dreamstime.com/b/two-houses-15993105.jpg',
     alt: 'another alt',
   },
 ];
